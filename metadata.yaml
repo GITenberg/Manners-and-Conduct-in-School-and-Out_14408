@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14408#Manners-and-Conduct-in-School-and-Out
 gutenberg_issued: '2004-12-21'
 gutenberg_type: Text
 identifiers:
